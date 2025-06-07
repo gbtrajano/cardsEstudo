@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-600 gap-8">
       <a
-        href="https://www.notion.so/gbtrajano/Aula-2-CMN-Conselho-Monet-rio-Nacional-20b7f089c0508086875eee4f4a118e7c?source=copy_link"
+        href="https://www.notion.so/gbtrajano/Aula-Banc-ria-20b7f089c05080b68fc2c040f95e55a3?source=copy_link"
         target="_blank"
       >
         <div className="service-card w-[300px] shadow-xl cursor-pointer snap-start shrink-0 p-8 bg-white flex flex-col items-start gap-3 transition-all duration-300 group hover:bg-[#202127] rounded-2xl">
